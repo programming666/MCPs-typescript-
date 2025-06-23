@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "bin": {
+    "what_to_eat": "./build/index.js"
+  },
+  "scripts": {
+    "tsc": " tsc & node build/index.js"
+  },
+  "files": ["build"]
+}
