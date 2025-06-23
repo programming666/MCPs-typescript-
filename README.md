@@ -1,7 +1,9 @@
-# 今天吃什么MCP服务器
-这是一个使用Node.js和typescript实现的今天吃什么的MCP服务器。采用ES2016标准
+# MCP服务器集合
 
-`node_modules`下是Node依赖
+这是一个通过TypeScript实现的MCP服务器的集合
+
+## 今天吃什么MCP服务器
+这是一个使用Node.js和typescript实现的今天吃什么的MCP服务器。采用ES2016标准
 
 `what_to_eat`下是typescript源码和javascript源码。
 
